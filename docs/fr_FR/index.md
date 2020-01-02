@@ -79,11 +79,22 @@ Dans la section **Widget** de la page d'un équipement vous pouvez configurer le
 ![mailbox](../images/mailbox7.png)
 
 - **Afficher le nom** permet de définir si le nom de l'équipement doit s'afficher ou non sur le widget
+- **Couleur du titre et des compteurs** permet de définir la couleur du texte du titre et des compteurs affichés sur le widget
+- **Couleur de fond du titre et des compteurs** permet de définir la couleur de fond du titre et des compteurs affichés sur le widget
+- **Couleur de fond principale** permet de définir la couleur de fond principale du widget
 - **Couleur du texte** permet de définir la couleur du texte affiché sur le widget
 
 > **Note**
-> Pour que les paramètres soient pris en compte sur le dashboard, il faut rendre invisible le widget, sauvegarder puis
-le rendre à nouveau visible et resauvegarder.
+> Les couleurs par défaut du widget sont les suivantes:
+> - **Couleur du titre et des compteurs** #ffffff (blanc)
+> - **Couleur de fond du titre et des compteurs** #60a3bc (bleu)
+> - **Couleur du texte** #737373 (gris foncé)
+> - **Couleur de fond du widget** #fff176 (jaune)
+>
+> **Note 2**
+> Pour être sur que les paramètres sont pris en compte sur le dashboard, il faut rendre invisible le widget, sauvegarder puis le rendre à nouveau visible et resauvegarder.
+
+
 
 ## Configuration des objets d'état de la boite à lettres
 

@@ -79,11 +79,20 @@ In the section **Widget** from the equipment page you can configure the paramete
 ![mailbox](../images/mailbox7.png)
 
 - **Display name** allows to define if the name of the equipment should be displayed or not on the widget
+- **Title and counters color** allows to define the color of the title text and the counters displayed on the widget
+- **Title and counters background color** allows to define the background color of the title and the counters displayed on the widget
+- **Main background color** allows to define the main background color of the widget
 - **Text color** allows to define the color of the text displayed on the widget
 
 > **Note**
-> For the parameters to be taken into account on the dashboard, you must make the widget invisible, save then
-make it visible again and save again.
+> The default colors of the widget are as follows:
+> - **Title and counters color** #ffffff (white)
+> - **Title and counters background color** #60a3bc (blue)
+> - **Text color** #737373 (dark gray)
+> - **Main background color** #fff176 (yellow)
+>
+> **Note 2**
+> To be sure that the parameters are taken into account on the dashboard, you must make the widget invisible, save and then make it visible again and save again.
 
 ## Configuring mailbox status objects
 
