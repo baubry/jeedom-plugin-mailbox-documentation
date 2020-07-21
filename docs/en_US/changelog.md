@@ -11,3 +11,7 @@
 # 01/02/2020
 
 - Logo updated
+
+# 22/07/2020
+
+- Addition of a timer for mail collection to avoid having an event on the opening and closing of the rear door for example

@@ -102,8 +102,9 @@ In the section **Mailbox status objects** from the equipment page you can config
 
 - **Letter condition** is the info command to detect a new letter (for example the state of a letterbox flap opening sensor)
 - **Parcel condition** is the info command to detect a new parcel (for example the state of an opening sensor of the front door of the mailbox)
-- **Collect Condition** is the info command to detect that the mail has been picked up (for example the condition of a letterbox rear door opening sensor)
 - **Minimum time between 2 detections of letter or parcel** is the waiting time between two letter or parcel events in seconds. For example if the front door has been opened twice in less than 5 seconds, only one event will be taken into account
+- **Collect Condition** is the info command to detect that the mail has been picked up (for example the condition of a letterbox rear door opening sensor)
+- **Minimum delay between 2 collect detections** is the waiting time between two mail collection events in seconds. For example if the rear door has been opened twice in less than 5 seconds, only one event will be taken into account
 
 ## Configuring notifications
 

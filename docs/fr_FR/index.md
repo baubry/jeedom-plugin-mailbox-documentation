@@ -104,8 +104,9 @@ Dans la section **Objets d'état de la boite à lettres** de la page d'un équip
 
 - **Condition lettre** est la commande d'info permettant de détecter une nouvelle lettre (par exemple l'état d'un capteur d'ouverture de la trappe de la boite à lettres)
 - **Condition colis** est la commande d'info permettant de détecter un nouveau colis (par exemple l'état d'un capteur d'ouverture de la porte avant de la boite à lettres)
-- **Condition relève** est la commande d'info permettant de détecter que le courrier a été relevé (par exemple l'état d'un capteur d'ouverture de la porte arrière de la boite à lettres)
 - **Délai minimum entre 2 détections de lettre ou colis** est le temps d'attente entre deux événements lettres ou colis en secondes. Par exemple si la porte avant a été ouverte deux fois en moins de 5 secondes, un seul événement sera pris en compte
+- **Condition relève** est la commande d'info permettant de détecter que le courrier a été relevé (par exemple l'état d'un capteur d'ouverture de la porte arrière de la boite à lettres)
+- **Délai minimum entre 2 détections de relève** est le temps d'attente entre deux événements de relève du courrier en secondes. Par exemple si la porte arrière a été ouverte deux fois en moins de 5 secondes, un seul événement sera pris en compte
 
 ## Configuration des notifications
 
